@@ -19,6 +19,8 @@ This repository contains a comprehensive project focused on data pre-processing,
 4. Time Series Forecasting:
     - Building an ARIMA model to forecast future Average Daily Rate (ADR) based on historical ADR data.
     - Evaluating the performance of the ARIMA model.
-  
+
+<br>
+
 ### Links:
 - Static HTML Webpage for Plotly visualisations: [Task 2 – Data Exploration](https://nbviewer.org/github/ayeshaaamir1/Hotel-Booking/blob/main/Task%202%20%E2%80%93%20Data%20Exploration.ipynb)
