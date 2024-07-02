@@ -1,5 +1,5 @@
 # Hotel Booking Demand Dataset
-The purpose of this project is to predict hotel booking cancellations using classification models (logistic regression, random forest, and support vector machine (SVM), and to predict average daily rate (ADR) using an ARIMA model. The dataset used for this project is the hotel booking demand dataset provided by Antonio, Almeida and Nunes (2019). Access here: [Hotel booking demand dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data)
+This repository contains a comprehensive project focused on data pre-processing, visualisation, classification modelling, and time series forecasting. The dataset used for this project is the hotel booking demand dataset provided by Antonio, Almeida and Nunes (2019). Access here: [Hotel booking demand dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data)
 
 <br>
 
